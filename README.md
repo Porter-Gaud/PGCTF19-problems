@@ -5,12 +5,12 @@ This repo is dedicated to keeping track of problems as we build them, as well as
 
 Point values will be changed closer to competition.
 
-| ["Image"](image/README.md) | [Web](web/README.md) | [Forensics](forensics/README.md) | [Cryptography](cryptography/README.md) | Algorithm | [Misc.](misc/README.md) |
-|  |  |  | Julius - 25 |  |  |
-|  |  |  | Complex Julius - 35 |  |  |
-|  |  |  | Take 3 - 50 |  |  |
-|  |  |  | Exclusive - 75 |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Cryptography | Forensics | Web | Algorithm | Image | Recon/Misc |
+|---|---|---|---|---|---|
+| Julius - 25 |   |   |   |   |   |
+| Complex Julius - 35 |   |   |   |   |   |
+| Take 3 - 45 |   |   |   |   |   |
+| Exclusive - 75 |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
