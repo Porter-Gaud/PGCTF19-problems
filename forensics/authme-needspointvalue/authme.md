@@ -3,6 +3,7 @@
 ---
 ## Problem
 ```
+[Image attachment]('generated-qr.png)
 What will I be at t=1529139600?
 ```
 
