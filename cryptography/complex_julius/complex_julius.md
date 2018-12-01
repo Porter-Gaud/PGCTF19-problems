@@ -1,11 +1,11 @@
 # Complex Julius
-35 pts
+45 pts
 ---
 ## Problem
 ```
-kb^oavh\t]`Zn+h`ocdibZ_,aa`m`iox
+{rn!q(<!@9!s>9~?x>9w;w*
 ```
 
 ## Internal Notes
-* Solution * pgctf{maybe_s0mething_d1fferent}
+* Solution * pgctf{1t5.th3.s4m3.l0l}
 Use ROT47 to rotate the ASCII characters.
