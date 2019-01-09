@@ -5,7 +5,7 @@
 
 ## Problem
 
-Tilda just opened a string cheese business and she designed her first website. She is a coding beginner but still decieded to make a sign in. All of this confusing lingo when creating the password login left her exasperated!
+Tilda just opened a string cheese business and she designed her first website. She is a coding beginner but still decided to make a sign in. All of this confusing lingo when creating the password login left her exasperated!
 
 
 
