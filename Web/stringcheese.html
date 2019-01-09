@@ -1,0 +1,25 @@
+<h1> Tilda's String Cheese </h1>
+<h4> Username </h4>
+<input id="username" type="text" />
+<br>
+<br>
+<h4> Password </h4>
+<input id="text_a" type="text" />
+<p id="answer"></p>
+<button onclick="myFunction()">Submit</button>
+
+<script>
+function myFunction()
+{
+var a=document.getElementById("text_a").value;
+
+if (a=="true")
+  {
+document.getElementById("answer").innerHTML="pgctf{b0uill0ncub3}";
+  }
+else
+  {
+document.getElementById("answer").innerHTML="Incorrect password";
+  }
+}
+</script>
