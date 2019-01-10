@@ -7,7 +7,7 @@ Point values will be changed closer to competition.
 
 | Cryptography | Forensics | Web | Algorithm | Image | Recon/Misc |
 |---|---|---|---|---|---|
-| Julius - 25 |   | String Cheese - ??  |   |   |   |
+| Julius - 25 | Stegosuar | String Cheese - ??  |   |   |   |
 | Complex Julius - 35 |   |   |   |   |   |
 | Take 3 - 45 |   |   |   |   |   |
 | Exclusive - 75 |   |   |   |   |   |
