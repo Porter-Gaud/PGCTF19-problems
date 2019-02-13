@@ -1,0 +1,10 @@
+version: '2'
+services:
+  web:
+    build:
+      context: ./flag
+    image: vulhub/drupal:8.5.0
+    ports:
+      - "8080:80"
+    volumes:
+      - ./flag:/flag
