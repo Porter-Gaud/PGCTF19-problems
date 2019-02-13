@@ -7,8 +7,8 @@ Point values will be changed closer to competition.
 
 | Cryptography | Forensics | Web | Algorithm | Image | Recon/Misc |
 |---|---|---|---|---|---|
-| Julius - 25 | Stegosuar | String Cheese - ??  |   |   |   |
-| Complex Julius - 35 |   |   |   |   |   |
+| Julius - 25 | Stegosuar - ?? | String Cheese - ?? |   |   | Attack of the Symbols - ?? |
+| Complex Julius - 35 | Music to my Ears - ?? |   |   |   |   |
 | Take 3 - 45 |   |   |   |   |   |
 | Exclusive - 75 |   |   |   |   |   |
 |   |   |   |   |   |   |
