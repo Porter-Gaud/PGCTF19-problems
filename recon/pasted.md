@@ -1,6 +1,8 @@
 # Pasted
+Hahah, you thought you'd get a hint?
 
-Standby, this problem is still in development.
+### flag
+pgctf{p0sted_0n_th3_past3r}
 
 # internal notes
-https://pastebin.com/WBemAiHi
+https://pastebin.com/eLUtL5A1

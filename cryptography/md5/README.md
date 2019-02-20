@@ -1,6 +1,6 @@
 # MD5
 the flag is in this format:
-pgctf{<adjective><one-digit-number}
+pgctf{<adjective><one-digit-number>}
 
 I also happened to have found this hash:
 fcbd93694a59d0a387b6976b5d518a5f
