@@ -1,0 +1,32 @@
+COMPANY LOGIN INFO -DO NOT DISTRIBUTE-
+
+todo/*
+
+* encrypt these passwords
+* hire new developers
+* dont go bankrupt (pay loan shark)
+* tell people this company is a scam
+
+*\
+
+USER  :  PASS
+
+tillson:minecraft123
+
+user11:ILoveCats
+
+hotdog:hotdog
+
+spencer:Canada1
+
+charles:@password$$
+
+admin:PGCTF{d0nt_h1d3_p4ssw0rds_in_pl41nt3xt}
+
+solomon:FortniteFortnite
+
+bigcheese4:1234567
+
+user12:ILoveCats2
+
+sam123:portergaud123
